@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pierre-Jordi Guettaf</h1>
-<h3 align="center">🚧 Future Data engineer 🚧</h3>
+<h3 align="center">🚧 Future IA engineer 🚧</h3>
 
 - 🔭 I’m currently working on [Coffee Break](https://github.com/pjcggf/coffee_break)
 
 - 🌱 I’m currently learning **Docker and contenerisation solutions**
 
 - 👯 I’m looking for a job in a **data team**
+
+- 🌱 Also learning **SK-Learn custom pipelines and scorers**
 
 - 📫 How to reach me: **pierrejordiguettaf@gmail.com**
 
