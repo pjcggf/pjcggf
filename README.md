@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Docker and contenerisation solutions**
 
-- 👯 I’m looking for a job in a **data team**
-
 - 🌱 Also learning **SK-Learn custom pipelines and scorers**
+
+- 👯 I’m looking for a job in a **data team**
 
 - 📫 How to reach me: **pierrejordiguettaf@gmail.com**
 
