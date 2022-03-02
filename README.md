@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **pierrejordiguettaf@gmail.com**
 
-- 📄 Know about my experiences [my resume](shorturl.at/ilLY3)
+- 📄 Know about my experiences [my resume](https://www.canva.com/design/DAE1ycW3g2g/pjuaQ9G-G2BaQHeICUF18w/view?utm_content=DAE1ycW3g2g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
