@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **pierrejordiguettaf@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/ivxD3](shorturl.at/ivxD3)
+- 📄 Know about my experiences [my resume](shorturl.at/ilLY3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
