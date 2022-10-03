@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pierre-Jordi Guettaf</h1>
-<h3 align="center">🚧 Future IA engineer 🚧</h3>
+<h3 align="center">🚧 Data scientist apprenticeship (IA engineer degree) 🚧</h3>
 
-- 🔭 I’m currently working on [Coffee Break](https://github.com/pjcggf/coffee_break)
+- 🔭 I’m currently working at **French Air Force**
 
 - 🌱 I’m currently learning **Docker and contenerisation solutions**
 
 - 🌱 Also learning **SK-Learn custom pipelines and scorers**
 
-- 👯 I’m looking for a job in a **data team**
-
 - 📫 How to reach me: **pierrejordiguettaf@gmail.com**
-
-- 📄 Know about my experiences [my resume in french](https://www.canva.com/design/DAE1ycW3g2g/pjuaQ9G-G2BaQHeICUF18w/view?utm_content=DAE1ycW3g2g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) or [in english](https://www.canva.com/design/DAE2ErZy430/03CApLZFSVz9u6YKzZXxAQ/view?utm_content=DAE2ErZy430&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
