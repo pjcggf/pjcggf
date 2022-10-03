@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre-Jordi Guettaf</h1>
-<h3 align="center">🚧 Data scientist apprenticeship (IA engineer degree) 🚧</h3>
+<h3 align="center">🚧 Data scientist apprenticeship (AI engineer degree) 🚧</h3>
 
 - 🔭 I’m currently working at **French Air Force**
 
